@@ -1,2 +1,2 @@
 # MOVIE-APPS
-Aplication tictket novie
+Aplication tictket movie
